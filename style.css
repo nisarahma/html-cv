@@ -1,0 +1,181 @@
+h1 {
+	text-align: center;
+	color : navy;
+	margin : 10px 10px 10px 50px;
+}
+h3.em {
+	margin : 120px 50px 50px 720px;
+	position: absolute;
+    color : navy;
+}
+h3.te {
+	margin : 160px 50px 50px 720px;
+	position: absolute;
+    color : navy;
+}
+h3.loc {
+	margin : 200px 50px 50px 720px;
+	position: absolute;
+    color : navy;
+}
+h2.pfile {
+	margin : 310px 50px 50px 265px;
+	position: absolute;
+	color : navy;
+	font-size: 35px;
+	font-family: arial;
+}
+h2.edu {
+	margin : 310px 50px 50px 870px;
+    position: absolute;
+    color : navy;
+    font-size: 35px;
+    font-family: arial;
+}
+h2.ex {
+	margin : 670px 250px 150px 260px;
+    position: absolute;
+    color : navy;
+    font-size: 35px;
+    font-family: arial;
+}
+h2.org {
+	margin : 670px 250px 150px 850px;
+    position: absolute;
+    color : navy;
+    font-size: 35px;
+    font-family: arial;
+}
+p.pfile { 
+	 border : 5px solid powderblue;
+	 height : 180px;
+	 width : 330px;
+	 background-color: powderblue;
+	 border-radius: 50px;
+	 text-align: left;
+	 font-size: 20px;
+	 text-align: left;
+	 font-size: 20px;
+	 padding : 15px 15px 15px 25px;
+	 margin : 100px 5px 5px 120px;
+	 display: flex;
+	 color : navy;
+
+}
+p.education {
+	 border : 5px solid powderblue;
+	 height : 180px;
+	 width : 330px;
+	 background-color: powderblue;
+	 border-radius: 50px;
+	 text-align: left;
+	 font-size: 20px;
+	 margin : -220px 5px 5px 720px;
+	 padding : 15px 15px 15px 25px;
+     display: flex;
+     color : navy;
+}
+p.experience {
+	 border : 5px solid powderblue;
+	 height : 60px;
+	 width : 330px;
+	 background-color: powderblue;
+	 border-radius: 50px;
+	 text-align: left;
+	 font-size: 20px;
+	 padding : 15px 15px 15px 25px;
+	 margin : 150px 50px 50px 120px;
+	 color : navy;
+}
+p.org {
+	 border : 5px solid powderblue;
+	 height : 50px;
+	 width : 330px;
+	 background-color: powderblue;
+	 border-radius: 50px;
+	 text-align: center;
+	 font-size: 20px;
+	 padding : 15px 15px 15px 25px;
+	 margin : -150px 50px 50px 730px;
+     color : navy;
+}
+img {
+	border-radius: 150px;
+	margin : 20px 50px 50px 330px;
+}
+img.pro {
+	margin : 290px 50px 50px 120px;
+	position: absolute;
+}
+img.edu {
+	margin : 290px 50px 50px 720px;
+	position: absolute;
+}
+img.exx {
+	margin : 650px 50px 50px 120px;
+	position: absolute;
+}
+img.org{
+	margin : 650px 50px 50px 700px;
+	position: absolute;
+}
+img.email {
+	margin : 120px 50px 50px 650px;
+	position: absolute;
+}
+img.tel {
+	margin : 160px 50px 50px 650px;
+	position: absolute;
+}
+img.lok {
+	margin : 200px 50px 50px 650px;
+	position: absolute;
+}
+body {
+	background-image : url("g3.PNG"); 
+
+}
+h3.line1 {
+	border : 1px solid navy;
+	border-radius: 4px;
+	background-color: navy;
+	height: 5px;
+	width: 1230px;
+	margin : 270px 50px 50px 50px;
+	position : absolute;
+}
+h3.line2 {
+	border : 1px solid navy;
+	border-radius: 4px;
+	background-color: navy;
+	height: 600px;
+	width: 5px;
+	margin : 290px 50px 50px 620px;
+	position : absolute;
+}
+img.ig{
+	margin : 0px 50px 50px 120px;
+	position: absolute;
+}
+img.line{
+	margin : 0px 50px 50px 540px;
+	position: absolute;
+}
+img.fb {
+	margin : 0px 50px 50px 1000px;
+	position: absolute;
+}
+h3.igg {
+	margin : 10px 50px 50px 190px;
+	position: absolute;
+	color: navy;
+}
+h3.linee {
+	margin : 10px 50px 50px 615px;
+	position: absolute;
+    color: navy;
+}
+h3.fb {
+	margin : 10px 50px 50px 1070px;
+	position: absolute;
+    color: navy;
